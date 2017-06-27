@@ -174,9 +174,7 @@ ____
 
 #### Build a Pomodoro Clock
 
-###### http://codepen.io/kimberlythegeek/full/YWxONq/
-
-> _Still in development._
+###### https://codepen.io/daces/full/MovRRa/
 
 
 ![alt tag]()
