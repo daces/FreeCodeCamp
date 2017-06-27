@@ -193,3 +193,24 @@ __[Example Site](https://codepen.io/FreeCodeCamp/full/aNyxXR/)__
 
 ___
 
+#### Build a Tic Tac Toe Game
+
+###### https://codepen.io/daces/
+
+> _In development_
+
+![alt tag]()
+
+- __User Story:__ _I can play a game of Tic Tac Toe with the computer._
+
+- __User Story:__ _My game will reset as soon as it's over so I can play again._
+
+- __User Story:__ _ I can choose whether I want to play as X or O._
+
+
+__[Assignment Details](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game)__
+
+
+__[Example Site](https://codepen.io/FreeCodeCamp/full/KzXQgy/)__
+
+___
